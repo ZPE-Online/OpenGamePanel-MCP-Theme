@@ -30,7 +30,7 @@ Join the ZPE-Online official discord server to follow our development or to disc
 
 Custom License:
 
-= = = = = = = = = = = = = = = = = = =  OPEN GAME PANEL = = = = = = = = = = = = = = = = = = = = = = = = = = =
+= = = = = = = = = = = = = = = = = = =  OPEN GAME PANEL = = = = = = = = = = = = = = = = = = = = = = = = = = 
 
 Users may edit the item, although users can not use the MCP logo for business purposes or remove the OGP Copyright.
 Users must not re-distribute the theme's copy for free or paid.
@@ -55,5 +55,5 @@ Once the pasting process completes, login to your OGP Panel.
 Navigate to Administration > Theme Settings, Change the theme to Master Control Program - (MCP) and save it.
 ENJOY!
 
-= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
 
