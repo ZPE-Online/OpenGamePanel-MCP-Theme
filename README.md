@@ -31,6 +31,7 @@ Join the ZPE-Online official discord server to follow our development or to disc
 Custom License:
 
 = = = = = = = = = = = = = = = = = = =  OPEN GAME PANEL = = = = = = = = = = = = = = = = = = = = = = = = = = =
+
 Users may edit the item, although users can not use the MCP logo for business purposes or remove the OGP Copyright.
 Users must not re-distribute the theme's copy for free or paid.
 Users need confirmation with us before taking theme as business and removing copyright mark (footer, header component, etc.).
