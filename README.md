@@ -33,12 +33,22 @@ Users may edit the item, although users are reminded the Master Control Program 
 
 For Installation, Follow the steps below:
 
-Requirements: Your OGP panel must of latest version. You Must have full controls on the OGP panel's File. Your OGP Panel atleast have 7-10 MB Disk space.
+Requirements: 
+Your OGP panel must have the latest version installed along with the latest version of the OGP Agent.
 
 Installation Steps:
 
-Download the lastest version from https://github.com/ZPE-Online/OpenGamePanel-MCP-Theme.git If you already downloaded. Progress to next instruction as what you want to finish
+Download the lastest version of the Master Control Program Theme from https://github.com/ZPE-Online/OpenGamePanel-MCP-Theme.git to the OGP Theme folder. 
+Default Location: /var/www/html/themes
 
-Extract the zip file. Copy everything inside the folder, navigate to your OGP Panel's root theme folder and paste there. Once the pasting process completes, login to your OGP Panel. Navigate to Administration > Theme Settings, Change the theme to Master Control Program - (MCP) and save it. ENJOY!
+or if you have already downloaded and installed, please proceed to the next step.
+
+Extract the zip file contents inside the themes directory, and the directory should now show the following: 
+Modern
+Revolution
+README.themes
+
+In your web browser login to your OGP Panel, navigate to Administration > Theme Settings, Change the theme to Master Control Program - (MCP) and save it. 
+ENJOY!
 
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
