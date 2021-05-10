@@ -17,7 +17,8 @@ $(document).ready(function() {
 
 			//console.log(JSON.stringify(json));
 
-			var theme_styles = {'Light':'light', 'Dark':'dark'}
+			//var theme_styles = {'Light':'light', 'Dark':'dark'}
+			var theme_styles = {'MCP - Dark':'MCP - Dark'}
 			var add_row = '<tr><td align="right"><label for="style_tab">Theme Style:</label></td><td align="left"><select id="style_tab" name="style_tab" class="form-control">';
                         for (var key in theme_styles) {
                                 if(theme_styles[key]==json['style']){
@@ -29,7 +30,8 @@ $(document).ready(function() {
 			add_row += '</td><td><i class="fa fa-question-circle-o" aria-hidden="true" data-toggle="tooltip" data-placement="left" title="Changes the Theme Style"></i></td></tr>';
 			$('form[action="?m=settings&p=themes"] tr:last').after(add_row);
 
-			var theme_background = {'Light Blur':'light', 'Dark Clean':'dark', 'Fire':'fire', 'Vietnam (by omano)':'vietnam', 'Dream':'dream', 'Light Dream':'light_dream', 'BF3: The Russian':'bf3_the_russian'}
+			//var theme_background = {'Light Blur':'light', 'Dark Clean':'dark', 'Fire':'fire', 'Vietnam (by omano)':'vietnam', 'Dream':'dream', 'Light Dream':'light_dream', 'BF3: The Russian':'bf3_the_russian'}
+			var theme_background = {'MCP - The Grid':'MCP - The Grid'}
 			var add_row = '<tr><td align="right"><label for="style_tab">Theme Background: <a class="label label-primary" id="bg_preview" data-toggle="tooltip" data-original-title="<img src=\'themes/MasterControlProgram/images/bg/'+json['background']+'.jpg\' width=\'180px\' \>">Preview</a></label></td><td align="left"><select id="style_bg" name="style_bg" class="form-control">';
 			for (var key in theme_background) {
 				if(theme_background[key]==json['background']){
