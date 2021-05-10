@@ -926,6 +926,7 @@ li.ui-tabs-tab.ui-corner-top.ui-state-default.ui-tab.ui-tabs-active.ui-state-act
     left: 0;
     right: 0;
     bottom: 0;
+    background-size: cover;
 }
 
 .btn-danger, .btn-success, .btn-block, a.btn-primary, button.btn-primary, .btn-primary.btn-file, label.input-group-btn .btn-primary, 
@@ -1005,17 +1006,20 @@ input[type="submit"]:active, input[type="button"]:focus, input[type="submit"]:fo
 input[type="submit"], input[type="button"], input[type="submit"]:active, .btn-primary:active, input[type="button"]:focus, input[type="submit"]:focus, input[type="button"]:active {
     background-image: url(https://ahssascreations.store/OGP-Website/themes/MasterControlProgram/images/bg/large_button.png) !important;
     color: #00D9FF !important;
+    background-size: cover;
 }
 
 input[type="submit"]:hover {
     background-image: url(https://ahssascreations.store/OGP-Website/themes/MasterControlProgram/images/bg/large_button.png);
     color: #fff !important;
+    background-size: cover;
 }
 
 .pagination>.active>a, .pagination>.active>span, .pagination>.active>a:hover, .pagination>.active>span:hover, .pagination>.active>a:focus, .pagination>.active>span:focus {
     color: #fff;
     background: inherit;
     border-color: #00d9ff;
+    background-size: cover;
 }
 
 .pagination>li>a:hover, .pagination>li>span:hover, .pagination>li>a:focus, .pagination>li>span:focus{background: inherit;}
@@ -1044,6 +1048,13 @@ nav.navbar.navbar-default{
 	background-image: url(https://ahssascreations.store/OGP-Website/themes/SimpleBootstrap/images/bg/bg_lineblue.png);
 }
 
+.operations-button, .operations-button:hover{
+	background-image: url(../images/bg/large_button.png) !important;
+	background: 0 0; border: none;
+	background-size: cover;
+}
+
+
 pre, .login-container, .bloc, .ui-tabs .ui-tabs-panel, .ui-tabs .ui-tabs-nav li:not(.ui-tabs-active), td, th, .accordion-toggle, 
 .accordion-content, .navbar-nav, h0{ position: relative;background: 0 0 !important; }
 
@@ -1061,14 +1072,43 @@ pre, .login-container, .bloc, .ui-tabs .ui-tabs-panel, .ui-tabs .ui-tabs-nav li:
    align-items: baseline;
 }
 
-.admin-buttons:after, .monitorbutton.btn-primary:after {
+.admin-buttons:after, .monitorbutton.btn-primary:after, .addons a:after, .btn-primary:active  {
     background-image: inherit !important;
 }
 
+.search, .uninstall, .operations-button {
+    padding: 5px;
+}
 
+.operations-button div {
+    color: #40d9ed;
+}
+.operations-button:hover div {
+    color: #fff;
+}
 
+.label.label-primary:hover{
+color: #fff !important
+}
 
-
-
-
-
+.label.label-primary, .label.label-primary:hover {
+    background: 0 0;
+    border: none;
+    background-image: url(https://ahssascreations.store/OGP-Website/themes/MasterControlProgram/images/bg/large_button.png) !important;
+    padding: 9px;
+    color: #00D9FF !important;
+    background-size: cover;
+}
+div#server_icon:hover, div#server_icon{
+	border: none;
+	padding: 6px;
+	background: 0 0 !important;
+	background-image: url(https://ahssascreations.store/OGP-Website/themes/MasterControlProgram/images/bg/large_button.png) !important;
+	background-size: cover;
+}
+div#server_icon:first-child div {
+    color: #ff0000;
+}
+div#server_icon:last-child div {
+    color: #FFA500;
+}
