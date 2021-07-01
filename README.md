@@ -25,30 +25,4 @@ Your feedback is essential so the MCP theme and other developments we make can f
 
 Join the ZPE-Online official discord server to follow our development or to discuss more about the MCP : https://discord.gg/vStZSvcM
 
-Licences and Copyright Info:
 
-= = = = = = = = = = = = = = = = = = = OPEN GAME PANEL = = = = = = = = = = = = = = = = = = = = = = = = = =
-
-Users may edit the item, although users are reminded the Master Control Program - MCP logo is copyrighted, nor can users remove the OGP Copyright. Users must not re-distribute the theme's copy for free or paid.
-
-For Installation, Follow the steps below:
-
-Requirements: 
-Your OGP panel must have the latest version installed along with the latest version of the OGP Agent.
-
-Installation Steps:
-
-Download the lastest version of the Master Control Program Theme from https://github.com/ZPE-Online/OpenGamePanel-MCP-Theme.git to the OGP Theme folder. 
-Default Location: /var/www/html/themes
-
-or if you have already downloaded and installed, please proceed to the next step.
-
-Extract the zip file contents inside the themes directory, and the directory should now show the following: 
-Modern
-Revolution
-README.themes
-
-In your web browser login to your OGP Panel, navigate to Administration > Theme Settings, Change the theme to Master Control Program - (MCP) and save it. 
-ENJOY!
-
-= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
