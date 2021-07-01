@@ -1,6 +1,11 @@
 # OpenGamePanel-MCP-Theme
 Open-Game-Panel-MasterControlProgram-Theme
 
+** NOTE COPYRIGHTS AND LICENCES **
+The Theme-MasterControlProgram is protected under the GPL Licence for free software. 
+The MCP Logo is copyrighted and protected by non-software copyright licence registered with the UK Copyright Service: Registration No: 284740563
+ to protect the identity and trademark of ZPE-Online Ltd.
+
 Part of the ZPE-Online Master Control Program (MCP) Project. 
 
 ![image](https://user-images.githubusercontent.com/80121347/115991244-90b43d80-a5bf-11eb-8d98-f0236e80d207.png) 
@@ -24,5 +29,9 @@ Master Control Program section of the ZPE-Online Forum
 Your feedback is essential so the MCP theme and other developments we make can further be improved and help this project evolve.
 
 Join the ZPE-Online official discord server to follow our development or to discuss more about the MCP : https://discord.gg/vStZSvcM
+
+
+
+
 
 
