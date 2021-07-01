@@ -1,16 +1,17 @@
 # OpenGamePanel-MCP-Theme
 Open-Game-Panel-MasterControlProgram-Theme
 
-** NOTE COPYRIGHTS AND LICENCES **
-The Theme-MasterControlProgram is protected under the GPL Licence for free software. 
-The MCP Logo is copyrighted and protected by non-software copyright licence registered with the UK Copyright Service: Registration No: 284740563
- to protect the identity and trademark of ZPE-Online Ltd.
+
 
 Part of the ZPE-Online Master Control Program (MCP) Project. 
 
 ![image](https://user-images.githubusercontent.com/80121347/115991244-90b43d80-a5bf-11eb-8d98-f0236e80d207.png) 
 
-NOTE!!! The Master Control Program (MCP) will be under constant changes as it evolves over time, there will be no "VERSIONS" as there is no "End Goal", So please make sure to regularly update to get latest version until we are able to implement an automatc update feature. Always keep checking this repository. Please make sure to report any problems in this github projects issues. Alternatively you can also join our discord server to talk more about this or for giving us feedback! also you can visit our Master Control Program Theme thread on the following two forums For Open Game Panel Related feedback or issues: https://www.opengamepanel.org/forum/viewthread.php?thread_id=7620 For Non Open Game Panel related feedback or issues: https://www.zpeonline.co.uk/forum
+** Important **
+The Theme-MasterControlProgram is protected under the GPL Licence for free software. 
+The MCP Logo is copyrighted and protected by non-software copyright licence registered with the UK Copyright Service: Registration No: 284740563
+ to protect the identity and trademark of ZPE-Online Ltd. 
+The Master Control Program (MCP) will be under constant changes as it evolves over time, there will be no "VERSIONS" as there is no "End Goal", So please make sure to regularly update to get latest version until we are able to implement an automatc update feature. Always keep checking this repository. Please make sure to report any problems in this github projects issues. Alternatively you can also join our discord server to talk more about this or for giving us feedback! also you can visit our Master Control Program Theme thread on the following two forums For Open Game Panel Related feedback or issues: https://www.opengamepanel.org/forum/viewthread.php?thread_id=7620 For Non Open Game Panel related feedback or issues: https://www.zpeonline.co.uk/forum
 
 Enjoy!!.
 
